@@ -1,6 +1,7 @@
-### Hello World 👋
-I am a fullstack software engineer from Itaocara/Brazil.
-- 🔭 Working on multiple frontend and backend project using Javascript, Phalcon PHP and Nodejs
+### Hi! 👋
+I'm a fullstack software engineer working on multiple frontend and backend projects. 
+
+🇧🇷 From Brazil 
 
 <br>
 
