@@ -1,5 +1,5 @@
 ### Hi! 👋
-I'm a fullstack software engineer working on multiple frontend and backend projects. 
+My name is Diego. I'm a fullstack software engineer working on multiple frontend and backend projects. 
 
 🇧🇷 From Brazil 
 
