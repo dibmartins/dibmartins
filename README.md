@@ -14,14 +14,18 @@ I am a fullstack software engineer from Itaocara/Brazil.
 <br>
 <br>
 
-## Expertise
+## Here you'll find
 
-<img align="left" alt="javascript" src="https://img.shields.io/badge/javascript-%23316192.svg?style=for-the-badge&logo=javascript&logoColor=white" />
-<img align="left" alt="php" src="https://img.shields.io/badge/php%20-%2320232a.svg?&style=for-the-badge&logo=php&logoColor=%blue" />
-<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-<img align="left" alt="mysql" src="https://img.shields.io/badge/mysql-%23316192.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
-<img align="left" alt="sqlite" src="https://img.shields.io/badge/sqlite-%23316192.svg?&style=for-the-badge&logo=sqlite" />
-<img align="left" alt="flutter" src="https://img.shields.io/badge/flutter-%23316192.svg?&style=for-the-badge&logo=flutter" />
+<img alt="javascript" src="https://img.shields.io/badge/javascript-%23316192.svg?style=for-the-badge&logo=javascript&logoColor=white" />
+<img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+<img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
+<img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
+<img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
+<img alt="Jenkins" src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>
 
 <br>
 <br>
