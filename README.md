@@ -3,7 +3,6 @@ I'm a fullstack software engineer working on multiple frontend and backend proje
 
 🇧🇷 From Brazil 
 
-<br>
 
 ## Connect with me:
 
