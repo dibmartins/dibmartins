@@ -1,5 +1,5 @@
 ### Hi! My name is Diego. 👋
-. I'm a fullstack software engineer working on multiple frontend and backend projects. 
+I'm a fullstack software engineer working on multiple frontend and backend projects. 
 
 🇧🇷 From Brazil 
 
@@ -9,6 +9,8 @@
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@dibmartins)
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/7331813/diego-botelho)
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/dibmartins)
+
+<br>
 
 ## Here you'll find:
 
