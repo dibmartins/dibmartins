@@ -1,6 +1,7 @@
 ### Hey! I'm Diego. 👋
-A fullstack software engineer working on multiple frontend and backend projects. 
-Co-founder at [Margh](https://www.vendana.com.br)
+A fullstack software engineer working on [Vendana](https://www.vendana.com.br). 
+<br>
+Cofounder at Margh.
 
 🇧🇷 From Brazil 
 
