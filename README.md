@@ -1,7 +1,5 @@
 ### Hey! I'm Diego. 👋
-A fullstack software engineer working on [Vendana](https://www.vendana.com.br). 
-<br>
-Cofounder at Margh.
+A fullstack software engineer at  [BTG Pactual](https://www.btgpactual.com). 
 
 🇧🇷 From Brazil 
 
