@@ -1,5 +1,5 @@
 ### Hey! I'm Diego. 👋
-A fullstack software engineer at  [BTG Pactual](https://www.btgpactual.com). 
+A fullstack software engineer at  [Wipro](https://www.wipro.com). 
 
 🇧🇷 From Brazil 
 
