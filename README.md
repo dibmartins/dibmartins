@@ -5,6 +5,8 @@ A fullstack software engineer at  [Wipro](https://www.wipro.com).
 
 <br>
 
+<a href="https://app.daily.dev/dibmartins"><img src="https://api.daily.dev/devcards/3447dbf03393440fa2fdad26c435c7b6.png?r=0ef" width="400" alt="Diego Botelho's Dev Card"/></a>
+
 ## Connect with me:
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dibmartins)
