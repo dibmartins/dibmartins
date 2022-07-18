@@ -1,5 +1,5 @@
 ### Hey! I'm Diego. 👋
-A fullstack software engineer at  [Wipro](https://www.wipro.com). 
+A fullstack software engineer at  [Pravaler](https://www.pravaler.com.br). 
 
 🇧🇷 From Brazil 
 
